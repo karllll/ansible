@@ -31,7 +31,7 @@
     
     domain: <domain>.<com>
 
-    goPhishIP: <IP>
+    goPhishIP: <IP; for AWS use goPhish internal IP - Must be in same subnet>
 
     mailServerIP: <IP>
 
